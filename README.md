@@ -1,7 +1,7 @@
 turbog-dictionary
 =================
 
-It is a english to turkish dictionary. It is a GPL licensed program written with Lazarus and FreePascal?.
+It is a English to Turkish dictionary. It is a GPL licensed program written with Lazarus and FreePascal.
 
 You can download Win32 and Haiku OS binary files. MacOSX and Linux binaries are welcome.
 
