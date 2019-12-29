@@ -11,8 +11,8 @@ Lazarus : http://lazarus.freepascal.org
 
 You can download binary files for Win32 and HaikuOs? from here;
 
-http://www.turbog.com/2012/04/18/turbo-dictionary/
+http://www.md5m.com/2012/04/18/turbo-dictionary/
 
-![Alt text](http://www.turbog.com/wp-content/uploads/2012/04/turbodict.png "TurboGdict")
+![Alt text](http://www.md5m.com/wp-content/uploads/2012/04/turbodict.png "TurboGdict")
 
-![Alt text](http://www.turbog.com/wp-content/uploads/2012/04/turbogdict_haiku-300x215.png "TurboGdicthaiku")
+![Alt text](http://www.md5m.com/wp-content/uploads/2012/04/turbogdict_haiku-300x215.png "TurboGdicthaiku")
